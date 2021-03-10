@@ -7,7 +7,7 @@ import org.springframework.http.HttpStatus;
 /**
  * Status object with details of the deployed webapplication
  * 
- * @author marcel.birkner
+ * @author RajaBoppana
  */
 @XmlRootElement
 public class ApplicationStatus {
