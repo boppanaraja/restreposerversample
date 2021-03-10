@@ -1,5 +1,3 @@
-[![Build Status](https://buildhive.cloudbees.com/job/marcelbirkner/job/jersey-rest-server/badge/icon)](https://buildhive.cloudbees.com/job/marcelbirkner/job/jersey-rest-server/)
-
 # Overview
 
 This Github project contains examples, how to create annotated REST Services. The following examples are provided:
@@ -8,7 +6,7 @@ This Github project contains examples, how to create annotated REST Services. Th
 - MediaType: Application/JSON
 - Path configuration: @Path
 
-The REST Services are automatically documented using Enunciate (http://enunciate.codehaus.org/). 
+The REST Services are automatically documented using Enunciate
 This has the advantage to keep the source code and documentation
 
 ## Example
