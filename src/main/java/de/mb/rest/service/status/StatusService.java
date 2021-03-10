@@ -14,7 +14,7 @@ import org.springframework.http.HttpStatus;
 /**
  * Returns information of the state of the web application
  * 
- * @author marcel.birkner
+ * @author RajaBoppana
  */
 @Path("/status")
 @Produces(MediaType.APPLICATION_JSON)
