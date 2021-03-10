@@ -18,7 +18,7 @@ import de.mb.rest.service.exceptions.NotFoundException;
 /**
  * The User service allows to manage all users
  * 
- * @author marcel.birkner
+ * @author RajaBoppana
  */
 @Path("/user")
 @Produces(MediaType.APPLICATION_JSON)
